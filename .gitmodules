@@ -1,3 +1,6 @@
 [submodule "/sample_lib"]
 	path = /sample_lib
 	url = https://github.com/switch120/Sample2.git
+[submodule "/sample_lib_2"]
+	path = /sample_lib_2
+	url = https://github.com/switch120/Sample2.git
